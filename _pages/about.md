@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postgraduate student from [Xidian University](https://www.xidian.edu.cn/)  and [Shaanxi Key Laboratory of Network and System Security](https://nss.xidian.edu.cn/index.htm), supervised by [Prof. Guangxia Li](https://faculty.xidian.edu.cn/LGX4/zh_CN/index/386575/list/index.htm) and guided by [Prof. Peilin Zhao](https://peilinzhao.github.io/) and [Prof. Xiao Lu](https://scholar.google.com/citations?user=6J6Xy8IAAAAJ&hl=en). I am generally interested in machine learning, stochastic optimization & generalization, and graph learning, with a special focus on the theoretical/empirical understanding of the federated learning algorithms. I am also open to any challenging research topic in artificial intelligence and data science.
 
-<span style="color:red"> I am looking for PhD opportunities. If you have any quota available, please feel free to contact me.   </span>
+<span style="color:red"> I am looking for a PhD opportunity. If you have any quota available, please feel free to contact me.   </span>
 
 
 News
